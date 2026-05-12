@@ -1,6 +1,6 @@
 # 🛍️ Fashion Shop App
 
-![Fashion Shop Banner](fasion%20shop%20ui.png)
+![Fashion Shop Banner](fasion%20shop%20ui.webp)
 
 ## 🌟 Overview
 **Fashion Shop** is a high-performance, modern eCommerce mobile application built with **Flutter**. This project aims to provide a seamless shopping experience with a clean UI, smooth transitions, and a robust architecture. Whether you are looking for the latest trends or everyday essentials, Fashion Shop has it all.
